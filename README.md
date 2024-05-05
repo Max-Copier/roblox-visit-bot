@@ -11,10 +11,10 @@ Do not share your Roblox cookies with anyone because they can log in to your Rob
 
 # 📕 Licanse
 
-Copyright (c) [2024] [saveinstance v2]
+Copyright (c) [2024] [Vega X]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "saveinstance v2"), to deal
+of this software and associated documentation files (the "Vega X"), to deal
 in the Software without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
